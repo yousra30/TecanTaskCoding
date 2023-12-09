@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Task2\bin\Debug\net8.0\Tecan.exe
+C:\Users\user\source\repos\Task2\bin\Debug\net8.0\Tecan.deps.json
+C:\Users\user\source\repos\Task2\bin\Debug\net8.0\Tecan.runtimeconfig.json
+C:\Users\user\source\repos\Task2\bin\Debug\net8.0\Tecan.dll
+C:\Users\user\source\repos\Task2\bin\Debug\net8.0\Tecan.pdb
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\Tecan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\Tecan.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\Tecan.AssemblyInfo.cs
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\Tecan.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\Tecan.dll
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\refint\Tecan.dll
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\Tecan.pdb
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\Tecan.genruntimeconfig.cache
+C:\Users\user\source\repos\Task2\obj\Debug\net8.0\ref\Tecan.dll
